@@ -1,2 +1,2 @@
 # Chloe-Quotes
-Application with databases that pull random quotes and background images. Quotes provided by Chloe and maybe one day Finn
+An application that will pull random quotes and background images. Quotes provided by Chloe and Finn. Named Chloe quotes as this project was originated when only one child was present.
